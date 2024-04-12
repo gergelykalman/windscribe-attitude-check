@@ -3,7 +3,7 @@
 This is the exploit for Windscribe's v2.9.9 macOS client.
 
 Blogpost is here:
-TODO
+[http://127.0.0.1:8000/why-you-shouldnt-use-a-commercial-vpn-amateur-hour-with-windscribe.html](http://127.0.0.1:8000/why-you-shouldnt-use-a-commercial-vpn-amateur-hour-with-windscribe.html)
 
 
 ### Demo:
